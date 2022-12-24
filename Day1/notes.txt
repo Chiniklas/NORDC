@@ -1,0 +1,20 @@
+1. virtual spring control --> workspace safety
+
+1.1 barrier function phi(x) = f(x) + r*B(x)
+B(x) is the barrier function
+
+1.2 penalty functions
+the further away from barrier function, the harder the function will be penalized
+
+2. SLP- sequential linear programming
+solve nonlinear optimization problems with a series of linear programming programming
+
+3. QP
+good for real time implementation
+--humanoid robot- hierachical problems- contact-balance-movement...
+
+4. GA - generic algorithm / evolutionary algorithm
+
+5. Particle Swarm Optimization -- bat flock simulation
+
+6. Pareto Optimality -- more than one objective functions
